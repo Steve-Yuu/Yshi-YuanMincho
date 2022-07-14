@@ -6,4 +6,5 @@
 本字体难免有字形错误，且部分字形不统一，本人将逐个版本进行修正
 # 特色
 支持旧字形写法，如為和爲這種字，默認選擇爲，真和眞這種，默認選擇眞，但真的本字為與眞區分，因此部分写法采用异体写法
+![字体示例](https://github.com/steve1137/Yshi-Mincho/blob/main/%E5%9B%BE%E7%89%87/1.PNG)
 ![《海阔天空》歌词示例](https://github.com/steve1137/Yshi-Mincho/blob/main/2.PNG)
