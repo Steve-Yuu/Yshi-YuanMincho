@@ -12,8 +12,5 @@
 * 本字体点号居中，主要以康熙字典体等中国传统字形以及《传承字形部件检校表》部分标准，并根据个人喜好对字体进行调整
 
 ![字体示例](https://github.com/steve1137/Yshi-Mincho/blob/main/%E5%9B%BE%E7%89%87/1.PNG)
-
-图片截取个人喜欢的歌曲的歌词为字形示例
-![《海阔天空》歌词示例](https://github.com/steve1137/Yshi-Mincho/blob/main/2.PNG)
 # 鸣谢
 思源宋体原版开源字体、ButKo源样明体、昭源宋体、一点字坊《传承部件检校表》等
